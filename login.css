@@ -1,0 +1,15 @@
+.form-center{
+    margin: auto;
+    width: 50%;
+    position: relative;
+    top: 150px;
+}
+
+/*Media queries*/
+
+@media screen and (min-width: 480px) {
+   .form-center{
+    margin: auto;
+    width: 100%;
+   }
+}
